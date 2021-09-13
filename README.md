@@ -1,5 +1,5 @@
-I’m @reswatson,
-I’m interested in Idris2, reswatson@protonmail.com
+@reswatson,
+interested in Idris2, reswatson@protonmail.com
 
 <!---
 reswatson/reswatson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
