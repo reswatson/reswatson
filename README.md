@@ -1,5 +1,6 @@
 @reswatson,
-interested in Idris2, reswatson@protonmail.com
+Interested in Idris2, Agda, Cubical Agda and using type theories in mathematics and programming.
+reswatson@protonmail.com
 
 <!---
 reswatson/reswatson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
