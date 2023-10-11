@@ -1,5 +1,5 @@
 @reswatson,
-Interested in Idris2, Agda, Cubical Agda and using type theories in mathematics and programming.
+Interested in Idris2, Agda, Cubical Agda, Haskell, proof assistants and using type theories in mathematics and programming.
 reswatson@protonmail.com
 
 <!---
